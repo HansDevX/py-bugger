@@ -1,3 +1,5 @@
+# Code review - ITAP2008 - Group 64654
+
 """Utilities for working with the target project's files and directories."""
 
 import subprocess
