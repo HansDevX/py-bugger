@@ -1,3 +1,5 @@
+# Code review - ITAP2008 - Group 64654
+
 """Resources for modifying code in ways that make it break."""
 
 import random

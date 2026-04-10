@@ -1,3 +1,5 @@
+# Code review - ITAP2008 - Group 64654
+
 import os
 import random
 
